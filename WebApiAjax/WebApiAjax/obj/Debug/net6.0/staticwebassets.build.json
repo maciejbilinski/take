@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "OIceofQVaIybpqbhq1wUKcujVhe/gMXBmU2DW1CDEcE=",
+  "Source": "WebApiAjax",
+  "BasePath": "_content/WebApiAjax",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApiAjax\\wwwroot",
+      "Source": "WebApiAjax",
+      "ContentRoot": "C:\\College\\TAKE\\WebApiAjax\\WebApiAjax\\wwwroot\\",
+      "BasePath": "_content/WebApiAjax",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\College\\TAKE\\WebApiAjax\\WebApiAjax\\wwwroot\\index.html",
+      "SourceId": "WebApiAjax",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\College\\TAKE\\WebApiAjax\\WebApiAjax\\wwwroot\\",
+      "BasePath": "_content/WebApiAjax",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
